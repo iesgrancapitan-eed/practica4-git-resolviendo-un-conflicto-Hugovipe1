@@ -47,4 +47,11 @@
 
     ![GitRemote](image/Captura%20de%20pantalla%202022-04-25%20a%20las%2020.53.24.png)
 15. Recuerda añadir estas instrucciones con los pantallazos en el fichero README.md
-16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  1. 
+
+    ![GitAdd](image/Captura%20de%20pantalla%202022-04-25%20a%20las%2020.56.10.png)
+    ![GitCommit](image/Captura%20de%20pantalla%202022-04-25%20a%20las%2020.56.21.png)
+    ![GitPush](image/Captura%20de%20pantalla%202022-04-25%20a%20las%2021.00.08.png)
+16. En GitHub entra en Insights/network y visualiza el gráfico del repositorio con los merge y cinco commits  1.
+
+    ![Insights](image/Captura%20de%20pantalla%202022-04-25%20a%20las%2021.01.27.png)
+
